@@ -1,3 +1,5 @@
 behave
 selenium
 behave-html-formatter
+webdriver-manager
+openpyxl
