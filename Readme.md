@@ -6,9 +6,12 @@ This project provides a Behavior-Driven Development (BDD) test suite for automat
 
 ## 📦 Project Structure
 
-- **features/**: contains your Gherkin feature files, step definitions, and page objects.  
-- **requirements.txt**: Python dependencies.  
-- **README.md**: this file.
+- **features/pages/login_page.py**: Contains page object model logic for the login page.  
+- **features/steps/login_steps.py**: Contains step definitions for the login feature scenarios.  
+- **features/login.feature**: Contains Gherkin syntax test scenarios.  
+- **features/environment.py**: Environment hooks for test setup and teardown.  
+- **requirements.txt**: Lists Python dependencies.  
+- **README.md**: Project documentation (this file).
 
 ---
 
