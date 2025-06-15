@@ -39,5 +39,4 @@ This project provides a Behavior-Driven Development (BDD) test suite for automat
 pip install -r requirements.txt
 
 3. **Execute the BDD suite with Behave**.  
-
 behave
